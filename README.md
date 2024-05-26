@@ -19,8 +19,3 @@ Compile e execute o programa:
 # Execução
 run:
     java -cp bin com.conversor.main.ConversorDeMoeda
-
-# Limpeza dos arquivos compilados
-clean:
-    rm -rf bin/*
-
