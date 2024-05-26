@@ -1,5 +1,8 @@
 # Conversor de Moeda
 
+![Badge-Conversor](https://github.com/TheCrowCRW/ConversorDeMoedas/assets/92756285/9544fbb2-5fac-438b-a885-009514bcab3a)
+
+
 Este é um conversor de moedas simples, é um challenge do programa ONE.
 
 ## Configuração
