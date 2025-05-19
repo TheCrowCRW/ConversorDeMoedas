@@ -11,7 +11,7 @@ Não é necessária nenhuma configuração adicional. Basta clonar este reposit�
 
 ## Execução
 
-Compile e execute o programa:
+Abra a pasta do repositório e execute via terminal.
 
 # Compile:
     javac -cp lib/gson-2.10.1.jar -d bin $(find src -name "*.java")
