@@ -14,7 +14,7 @@ Não é necessária nenhuma configuração adicional. Basta clonar este reposit�
 Compile e execute o programa:
 
 # Compile:
-    javac -d bin src/main/java/com/conversor/main/*.java src/main/java/com/conversor/service/*.java
+    javac -d bin src/com/conversor/main/*.java src/com/conversor/service/*.java
 
 # Execução
 run:
