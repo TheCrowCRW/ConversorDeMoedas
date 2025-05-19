@@ -7,7 +7,7 @@ Este é um conversor de moedas simples, é um challenge do programa ONE.
 
 ## Configuração
 
-Não é necessária nenhuma configuração adicional. Basta clonar este repositório e executar o programa.
+Não é necessária nenhuma configuração adicional. Basta clonar este repositório, compilar e executar o programa.
 
 ## Execução
 
