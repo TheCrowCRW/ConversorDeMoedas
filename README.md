@@ -14,8 +14,8 @@ Não é necessária nenhuma configuração adicional. Basta clonar este reposit�
 Compile e execute o programa:
 
 # Compile:
-    javac -d bin src/com/conversor/main/*.java src/com/conversor/service/*.java
+    javac -cp lib/gson-2.10.1.jar -d bin $(find src -name "*.java")
 
 # Execução
 run:
-    java -cp bin com.conversor.main.ConversorDeMoeda
+    java -cp bin:lib/gson-2.10.1.jar com.conversor.main.ConversorDeMoeda
